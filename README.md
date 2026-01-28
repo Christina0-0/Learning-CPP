@@ -1,2 +1,2 @@
-# Learning-CPP
+# CPP
 My journey of learning C++ from scratch
